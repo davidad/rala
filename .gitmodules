@@ -1,0 +1,3 @@
+[submodule "rala_util"]
+	path = rala_util
+	url = git://github.com/davidad/rala_util.git
