@@ -1,3 +1,6 @@
 [submodule "rala_util"]
 	path = rala_util
 	url = git://github.com/davidad/rala_util.git
+[submodule "rala_website"]
+	path = rala_website
+	url = http://rala.cba.mit.edu/.git
